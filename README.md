@@ -24,7 +24,7 @@
 | **Category** | **Tools** | **More** |
 |--------------|-----------|----------|
 | **OS** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white) |   |
-| **Virtualization** | ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) ![Veem](https://img.shields.io/badge/-Veem-00B336?style=flat&logo=veem&logoColor=white) |   |
+| **Virtualization** | ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?style=flat&logo=proxmox&logoColor=white) ![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) ![Veem](https://img.shields.io/badge/-Veem-00B336?style=flat&logo=veeam&logoColor=white) |   |
 | **Web Servers** | ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white) ![Traefik](https://img.shields.io/badge/-Traefik-24A1C1?style=flat&logo=traefikmesh&logoColor=white) |   |
 | **Cloud Platforms** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) |   |
 | **IaC** | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=ansible&logoColor=white) |   |

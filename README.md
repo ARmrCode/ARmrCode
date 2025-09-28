@@ -17,6 +17,27 @@
 
 ---
 
+## 👨‍💻 About Me  
+
+I am a **System Engineer** focusing on **DevOps** practices, with 3+ years of experience in IT infrastructure, automation, and system administration. Currently, I am looking for opportunities in **DevOps engineering** to design scalable, secure, and automated infrastructures.  
+
+### 🔧 Core Focus Areas  
+- **Cloud Platforms:** AWS, GCP  
+- **IaC & GitOps:** **Terraform**, Ansible, ArgoCD, FluxCD  
+- **Orchestration & Containers:** Kubernetes, Helm, Docker, Docker Compose  
+- **CI/CD & Automation:** GitLab CI, Jenkins, GitHub Actions, Bash, Python  
+- **Monitoring & Logging:** Grafana, Prometheus, Loki, Tempo, Zabbix  
+- **Security & DevSecOps:** SOPS, Cloudflare, SSL, WAF, DDoS protection  
+
+### 🚀 Key Achievements  
+- Designed and deployed **production-ready microservices** with Kubernetes & Docker, integrated with GitLab CI pipelines.  
+- Automated provisioning and scaling of cloud resources with **Terraform**, reducing manual work and ensuring consistency.  
+- Implemented **GitOps workflows** with ArgoCD/FluxCD for seamless and reliable releases.  
+- Integrated **monitoring & alerting** (Prometheus, Grafana, Zabbix) to ensure system stability.  
+- Configured **reverse proxy & security layers** with Nginx + Cloudflare for resilience and scalability.  
+
+---
+
 ## ⚡ Tech stack
 
 | **Category** | **Tools** | **More** |

@@ -19,8 +19,6 @@
 
 ## ⚡ Tech stack
 
-## ⚡ Tech stack
-
 | **Category** | **Tools** | **More** |
 |--------------|-----------|----------|
 | **OS** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?style=flat&logo=windows&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white) |   |
